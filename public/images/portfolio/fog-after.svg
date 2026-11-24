@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#090B0F"/>
+  <path d="M140 215 C240 145 530 145 660 220 L620 410 C470 445 240 435 160 375 Z" fill="#0D121A" stroke="#94A3B8" stroke-width="2"/>
+  <path d="M190 365 L595 365" stroke="#3B82F6" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="330" cy="290" r="48" fill="#172554" stroke="#E2E8F0" stroke-width="2.5"/>
+  <circle cx="330" cy="290" r="22" fill="#F8FAFC" opacity="0.9"/>
+  <circle cx="485" cy="290" r="48" fill="#172554" stroke="#E2E8F0" stroke-width="2.5"/>
+  <circle cx="485" cy="290" r="22" fill="#F8FAFC" opacity="0.9"/>
+  <text x="48" y="64" fill="#F8FAFC" font-family="sans-serif" font-size="22" font-weight="600">Разбор, очистка, замена герметика и тест давления</text>
+  <text x="48" y="556" fill="#94A3B8" font-family="sans-serif" font-size="16">Временная схема макета (замените на фото ГрафФар)</text>
+</svg>

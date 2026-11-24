@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="biled-a-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#07080B"/>
+      <stop offset="100%" stop-color="#11151E"/>
+    </linearGradient>
+    <linearGradient id="biled-a-beam" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F8FAFC" stop-opacity="0.95"/>
+      <stop offset="45%" stop-color="#93C5FD" stop-opacity="0.48"/>
+      <stop offset="100%" stop-color="#1E40AF" stop-opacity="0.06"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#biled-a-bg)"/>
+  <rect x="65" y="120" width="670" height="310" rx="16" fill="#0B0E14" stroke="#334155" stroke-width="1.5"/>
+  <path d="M90 345 L360 345 L410 315 L710 315 L710 420 L90 420 Z" fill="url(#biled-a-beam)"/>
+  <path d="M90 345 L360 345 L410 315 L710 315" fill="none" stroke="#E0F2FE" stroke-width="3.5"/>
+  <path d="M90 345 L360 345 L410 315 L710 315" fill="none" stroke="#60A5FA" stroke-width="8" opacity="0.28"/>
+  <ellipse cx="400" cy="382" rx="220" ry="30" fill="#F8FAFC" opacity="0.24"/>
+  <text x="48" y="64" fill="#F8FAFC" font-family="sans-serif" font-size="22" font-weight="600">Bi-LED модули 5500K · чёткая светотеневая граница</text>
+  <text x="48" y="556" fill="#94A3B8" font-family="sans-serif" font-size="16">Временная схема макета (замените на фото ГрафФар)</text>
+</svg>

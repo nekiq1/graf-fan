@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "ГрафФар — Автосвет и детейлинг",
+  "short_name": "ГрафФар",
+  "description": "Студия автосвета и детейлинга в Санкт-Петербурге (Гранитная ул., 51): Bi-LED линзы, ремонт фар, полировка, плёнки и калькулятор стоимости.",
+  "lang": "ru",
+  "theme_color": "#0B0C10",
+  "background_color": "#0B0C10",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

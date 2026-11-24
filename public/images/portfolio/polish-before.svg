@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="pol-b-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#12141A"/>
+      <stop offset="100%" stop-color="#1D2028"/>
+    </linearGradient>
+    <radialGradient id="pol-b-haze" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#94A3B8" stop-opacity="0.38"/>
+      <stop offset="70%" stop-color="#64748B" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#1E293B" stop-opacity="0.05"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#pol-b-bg)"/>
+  <path d="M130 220 C220 140 520 135 670 215 L635 415 C490 455 240 445 145 385 Z" fill="#1F242E" stroke="#475569" stroke-width="2"/>
+  <path d="M130 220 C220 140 520 135 670 215 L635 415 C490 455 240 445 145 385 Z" fill="url(#pol-b-haze)"/>
+  <g stroke="#CBD5E1" stroke-width="1.2" opacity="0.35">
+    <path d="M190 240 L270 310"/><path d="M230 210 L320 295"/><path d="M295 250 L390 340"/>
+    <path d="M350 205 L440 310"/><path d="M410 230 L520 350"/><path d="M480 215 L580 320"/>
+    <path d="M220 320 L310 250"/><path d="M340 350 L450 265"/><path d="M460 360 L575 245"/>
+  </g>
+  <circle cx="315" cy="300" r="52" fill="#94A3B8" opacity="0.16"/>
+  <circle cx="500" cy="295" r="52" fill="#94A3B8" opacity="0.16"/>
+  <text x="48" y="64" fill="#94A3B8" font-family="sans-serif" font-size="22" font-weight="600">Помутнение, пескоструй и сетка царапин на стекле</text>
+  <text x="48" y="556" fill="#64748B" font-family="sans-serif" font-size="16">Временная схема макета (замените на фото ГрафФар)</text>
+</svg>

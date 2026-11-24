@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="det-a-shine" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E2E8F0" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#0B0C10" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#090A0E"/>
+  <path d="M110 380 Q240 215 470 210 Q640 215 700 320 L700 440 L110 440 Z" fill="#10141D" stroke="#CBD5E1" stroke-width="2"/>
+  <path d="M110 380 Q240 215 470 210 Q640 215 700 320 L700 440 L110 440 Z" fill="url(#det-a-shine)"/>
+  <path d="M210 245 Q380 218 575 245" fill="none" stroke="#F8FAFC" stroke-width="3" opacity="0.75"/>
+  <text x="48" y="64" fill="#F8FAFC" font-family="sans-serif" font-size="22" font-weight="600">Восстановительная полировка и защитное покрытие</text>
+  <text x="48" y="556" fill="#94A3B8" font-family="sans-serif" font-size="16">Временная схема макета (замените на фото ГрафФар)</text>
+</svg>
